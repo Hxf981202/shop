@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-management" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-sso" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
