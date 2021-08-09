@@ -46,7 +46,7 @@
 		<!-- Dubbo 依赖 -->
 		<dubbo.version>2.7.3</dubbo.version>
 		<!-- elasticsearch 依赖 -->
-		<elasticsearch.version>7.5.0</elasticsearch.version>
+		<elasticsearch.version>7.13.3</elasticsearch.version>
 		<!-- google kaptcha依赖 -->
 		<kaptcha.version>0.0.9</kaptcha.version>
 		<!-- alipay 依赖 -->
