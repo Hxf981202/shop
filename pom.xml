@@ -38,7 +38,7 @@
 		<!-- pagehelper 分页依赖 -->
 		<pagehelper.version>1.2.13</pagehelper.version>
 		<!-- mysql 数据库依赖 -->
-		<mysql.version>8.0.18</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<!-- druid 连接池依赖 -->
 		<druid.version>1.1.20</druid.version>
 		<!-- 七牛云sdk 依赖-->
